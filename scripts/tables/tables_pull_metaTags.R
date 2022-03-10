@@ -2,26 +2,38 @@
 
 ##############################################################  working  --- pull metadata           ###############################################
 
+#photo direcory
+in.dir<-"./data/in/photos"
 
+## photo list
+photos<-list.files(in.dir,recursive=T)
+
+## exiftool has to be installed and available (in the .path)
 pull.met<-function(x) system2("exiftool", paste('-s -s -s ','-DateTimeOriginal -AmbientTemperatureFahrenheit -MoonPhase ',x),stdout = T) ## slow!
 
 photos.full<-file.path(in.dir,photos)
 
 photos.path.only<-dirname(photos.full)
-
 photos.path.only<-unique(photos.path.only)
 
+## get the raw metadata.. can be pretty slow:
 photo.met<-sapply(photos.path.only,pull.met) ## process by directory, not individule file, should be faster
 
-str(photo.met)
+# str(photo.met)
 
+## save a backup 
 photo.met.bak<-photo.met
 #  photo.met<-photo.met.bak
 photo.met<-unlist(photo.met,use.names=F)
-tail(photo.met)
-head(photo.met)
-length(photo.met)
-photo.met[2]
+
+
+# tail(photo.met)
+# head(photo.met)
+# length(photo.met)
+# photo.met[2]
+
+
+## clean up raw metadata in a loop:
 out.met<-matrix(NA,nrow=length(photos.full),ncol=4)
 j=1
 for(i in 1:length(photo.met)){
@@ -34,9 +46,9 @@ for(i in 1:length(photo.met)){
   } 	
 }
 
-head(out.met)
-View(out.met)
-View(photo.meta)
+# head(out.met)
+# View(out.met)
+# View(photo.meta)
 
 ####################################################################################################################################
 photo.met.dat<-data.frame(moon=out.met[,4])
@@ -44,13 +56,15 @@ photo.met.dat$temp_f<-substring(out.met[,3],1,2)
 photo.met.dat$photo_date<-substring(out.met[,2],1,10)
 photo.met.dat$photo_time<-substring(out.met[,2],12,19)
 
-View(photo.met.dat)
+# head(photo.met.dat)
+# View(photo.met.dat)
 
 ## combine data and meta
 photo.dat.bak<-photo.dat
 photo.dat<-cbind(photo.dat,photo.met.dat)
-View(photo.dat)
-View(photo.dat[,c('file','photo_date','photo_time')])
+
+# View(photo.dat)
+# View(photo.dat[,c('file','photo_date','photo_time')])
 
 ####################################################
 ######################  convert factors to char
