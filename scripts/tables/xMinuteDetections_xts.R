@@ -42,6 +42,7 @@ for(i in 1:length(a)){
     tm.diff<-diff(.index(c.xts)%/%60%/%30+1)
     ## *** remove diffs less than 30 ***
     tm.diff[tm.diff <= 30]<-0
+    
     c.ends<-c(0,which(tm.diff != 0), NROW(c.xts))
     
     c.max<-period.apply(c.xts,c.ends,max)
@@ -54,9 +55,9 @@ for(i in 1:length(a)){
 
 #Save count data
 # out.path<-"M:/AlpineMesocarnivore/Data/PhotoData/PhotoDataTables/2019"
-out.path<-'./data/output'
+out.path<-'./data/out'
 #out.path<-"C:/Users/bhatfield/Desktop"
-out.file<-"photodata_meta_30MinDetections_update2022.txt"
+out.file<-"photodata_meta_30MinDetections.txt"
 
 write.table(count.dat,file.path(out.path,out.file))
 # count.dat<-read.table(file.path(out.path,out.file))
@@ -77,13 +78,20 @@ write.csv(count.dat,file.path(out.path,out.file))
 #count.30.dat<-count.dat[which(count.dat$count30 ==1),]
 # View(count.30.dat)
 
-coutn.30.dat<-count.dat %>% 
+count.30.dat<-count.dat %>% 
   filter(!grepl('other', species),  ## remove other 
          count30 == 1)              ## colapse on count 30
 
 
 coy.dat<-count.30.dat %>% 
   filter(species == 'Coyote')
+
+dates.dat<-count.30.dat %>% 
+  group_by(cell_site) %>% 
+  summarize(min.dt = min(photo_date),
+            max.dt = max(photo_date)
+            
+            )
 
 
 ## count sum
