@@ -255,6 +255,7 @@ dailyDetectionOut<-function(camData,
 	## Julian Date, for survey year
 	# last day of last year, this year
 	allDts<-as.Date(camData[,dtField], format = dtFormat)
+	#str(camData[,dtField])
 	yrs<-format(allDts,'%Y')
 	thisYr <- as.numeric(format(as.Date(paste0(detectionYear,'/12/31')),'%j'))
 	lastYr <- as.numeric(format(as.Date(paste0(detectionYear - 1,'/12/31')),'%j'))

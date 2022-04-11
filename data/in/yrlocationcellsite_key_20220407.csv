@@ -1,0 +1,254 @@
+DateSetup,GeographicSiteName,StudyArea,Cell,Site,YearLocationCellSite
+19-Dec-15,Mammoth Pass,SA_Mammoth Lakes Basin,21750,1,2015_ML_21750_1
+05-Oct-16,B/t Tomahawk & Lwr Desolation Lk,SA_Humphreys Basin,20063,1,2016_HB_20063_1
+06-Oct-16,Muriel Lake,SA_Humphreys Basin,20063,2,2016_HB_20063_2
+05-Oct-16,Below Lobe Lks,SA_Humphreys Basin,20123,1,2016_HB_20123_1
+05-Oct-16,Pack Saddle Lk,SA_Humphreys Basin,20123,2,2016_HB_20123_2
+06-Oct-16,Desolation Lake,SA_Humphreys Basin,20124,1,2016_HB_20124_1
+06-Oct-16,Lower Desolation Lk,SA_Humphreys Basin,20124,2,2016_HB_20124_2
+05-Oct-16,Ramona Lk,SA_Humphreys Basin,20183,1,2016_HB_20183_1
+06-Oct-16,Above Lower Honeymoo,SA_Humphreys Basin,20183,2,2016_HB_20183_2
+06-Oct-16,Carol Col,SA_Humphreys Basin,20184,1,2016_HB_20184_1
+06-Oct-16,Tomahawk Lk N,SA_Humphreys Basin,20184,2,2016_HB_20184_2
+05-Oct-16,Hutchinson Meadow,SA_Humphreys Basin,20244,1,2016_HB_20244_1
+06-Oct-16,Pilot Knob,SA_Humphreys Basin,20244,2,2016_HB_20244_2
+04-Oct-16,L Lake,SA_Humphreys Basin,20245,1,2016_HB_20245_1
+06-Oct-16,Coca Cola Col,SA_Humphreys Basin,20245,2,2016_HB_20245_2
+05-Oct-16,East Pinnacles,SA_Humphreys Basin,20304,1,2016_HB_20304_1
+05-Oct-16,West Pinnacles,SA_Humphreys Basin,20304,2,2016_HB_20304_2
+04-Oct-16,Puppet Gap,SA_Humphreys Basin,20305,1,2016_HB_20305_1
+04-Oct-16,Lower Royce Lk,SA_Humphreys Basin,20305,2,2016_HB_20305_2
+04-Oct-16,Upper Merriam,SA_Humphreys Basin,20365,1,2016_HB_20365_1
+04-Oct-16,Merriam Lower,SA_Humphreys Basin,20365,2,2016_HB_20365_2
+04-Oct-16,Pine Creek Pass,SA_Humphreys Basin,20366,1,2016_HB_20366_1
+03-Oct-16,French Lake,SA_Humphreys Basin,20366,2,2016_HB_20366_2
+04-Oct-16,Middle Royce Lk,SA_Humphreys Basin,20426,1,2016_HB_20426_1
+04-Oct-16,Upper Royce Lk,SA_Humphreys Basin,20426,2,2016_HB_20426_2
+14-Jan-16,Woods Lake,SA_Mammoth Lakes Basin,21571,1,2016_ML_21571_1
+05-Feb-16,Deer Lakes,SA_Mammoth Lakes Basin,21571,2,2016_ML_21571_2
+21-Jan-16,Mammoth Crest,SA_Mammoth Lakes Basin,21630,1,2016_ML_21630_1
+21-Jan-16,Mammoth Crest-west of deer lakes,SA_Mammoth Lakes Basin,21630,2,2016_ML_21630_2
+14-Jan-16,Emerald Lake,SA_Mammoth Lakes Basin,21691,1,2016_ML_21691_1
+14-Jan-16,Lake Barrett,SA_Mammoth Lakes Basin,21691,2,2016_ML_21691_2
+21-Jan-16,Mammoth Crest,SA_Mammoth Lakes Basin,21750,2,2016_ML_21750_2
+02-Feb-16,,SA_North Fork Bishop Creek,19942,1,2016_NB_19942_1
+29-Apr-16,,SA_North Fork Bishop Creek,19942,1.1,2016_NB_19942_1.1
+02-Feb-16,North Lake Campground,SA_North Fork Bishop Creek,19942,2,2016_NB_19942_2
+08-Feb-16,,SA_North Fork Bishop Creek,20002,1,2016_NB_20002_1
+25-Feb-16,below piute lake,SA_North Fork Bishop Creek,20002,2,2016_NB_20002_2
+26-Mar-16,below piute lake 2,SA_North Fork Bishop Creek,20002,2.1,2016_NB_20002_2.1
+08-Feb-16,Paiute Pass,SA_North Fork Bishop Creek,20063,1,2016_NB_20063_1
+24-Jul-16,Upper Lubkin,SA_North Fork Lubkin Creek,16678,1,2016_NL_16678_1
+24-Jul-16,Upper Lubkin,SA_North Fork Lubkin Creek,16678,2,2016_NL_16678_2
+11-Feb-16,Finch Lake,SA_Rock Creek,20549,1,2016_RC_20549_1
+24-Feb-16,Upper Morgan Lk,SA_Rock Creek,20549,2,2016_RC_20549_2
+11-Feb-16,Treasure Lakes,SA_Rock Creek,20609,1,2016_RC_20609_1
+11-Feb-16,Spire Lake,SA_Rock Creek,20609,2,2016_RC_20609_2
+28-Jan-16,Long Lake,SA_Rock Creek,20670,1,2016_RC_20670_1
+28-Jan-16,Box Lake,SA_Rock Creek,20670,2,2016_RC_20670_2
+03-Apr-16,Holiday Campground,SA_Rock Creek,21034,1,2016_RC_21034_1
+03-Apr-16,Swall Bench Rd,SA_Rock Creek,21034,2,2016_RC_21034_2
+09-Mar-17,lower desolation west,SA_Humphreys Basin,20063,1.1,2017_HB_20063_1.1
+10-Mar-17,lower lobe 1.1,SA_Humphreys Basin,20123,1.1,2017_HB_20123_1.1
+09-Mar-17,Desolation lake 1.1,SA_Humphreys Basin,20124,1.1,2017_HB_20124_1.1
+22-Apr-17,ramona lk 1.1,SA_Humphreys Basin,20183,1.1,2017_HB_20183_1.1
+30-Apr-17,knob pass 2.1,SA_Humphreys Basin,20244,2.1,2017_HB_20244_2.1
+09-Mar-17,Coca Cola Pass 2.1,SA_Humphreys Basin,20245,2.1,2017_HB_20245_2.1
+30-Apr-17,puppet gap 1.1,SA_Humphreys Basin,20305,1.1,2017_HB_20305_1.1
+04-Oct-17,Gabbot Pass,SA_Mono Creek,20669,1,2017_MC_20669_1
+04-Oct-17,Italy Lake,SA_Mono Creek,20669,2,2017_MC_20669_2
+04-Oct-17,Recess Pass,SA_Mono Creek,20730,1,2017_MC_20730_1
+05-Oct-17,Mills Lake Drainage,SA_Mono Creek,20730,2,2017_MC_20730_2
+04-Oct-17,second recess trails end,SA_Mono Creek,20790,1,2017_MC_20790_1
+04-Oct-17,lower mills lake,SA_Mono Creek,20790,2,2017_MC_20790_2
+02-Oct-17,summit lake ridge,SA_Mono Creek,20791,1,2017_MC_20791_1
+04-Oct-17,Golden Lake,SA_Mono Creek,20791,2,2017_MC_20791_2
+04-Oct-17,Fourth Recess,SA_Mono Creek,20851,1,2017_MC_20851_1
+04-Oct-17,Third Recess,SA_Mono Creek,20851,2,2017_MC_20851_2
+03-Oct-17,Lower Pioneer Basin,SA_Mono Creek,20912,1,2017_MC_20912_1
+04-Oct-17,Golden Creek,SA_Mono Creek,20912,2,2017_MC_20912_2
+03-Oct-17,hopkins Basin,SA_Mono Creek,20972,1,2017_MC_20972_1
+03-Oct-17,Lower hopkins basin,SA_Mono Creek,20972,2,2017_MC_20972_2
+05-Oct-17,Grinnell Lake,SA_Mono Creek,21031,1,2017_MC_21031_1
+05-Oct-17,Bighorn Pass,SA_Mono Creek,21031,2,2017_MC_21031_2
+03-Oct-17,Middle Pioneer,SA_Mono Creek,21032,1,2017_MC_21032_1
+03-Oct-17,Upper Pioneer-Steelhead Pass,SA_Mono Creek,21032,2,2017_MC_21032_2
+04-Oct-17,Crocker Pass,SA_Mono Creek,21092,1,2017_MC_21092_1
+04-Oct-17,hopkins pass,SA_Mono Creek,21092,2,2017_MC_21092_2
+13-Nov-17,Bishop Pass Deer 1,SA_South Fork Bishop Creek,19325,1,2017_SB_19325_1
+13-Nov-17,Bishop Pass Deer 2,SA_South Fork Bishop Creek,19325,2,2017_SB_19325_2
+14-Nov-17,Shepherd Pass,SA_Shepherd Creek,17501,1,2017_SC_17501_1
+14-Nov-17,Shepherd Pass,SA_Shepherd Creek,17501,2,2017_SC_17501_2
+20-Jun-18,Gabbot Pass,SA_Mono Creek,20669,P1,2018_MC_20669_P1
+13-Jun-18,Mono Pass-Hair Snare,SA_Mono Creek,20791,H1,2018_MC_20791_H1
+13-Jun-18,Trail Lake Pass-Hair Snare,SA_Mono Creek,20791,H2,2018_MC_20791_H2
+08-Jun-18,Mono Pass Ridge,SA_Mono Creek,20791,P1,2018_MC_20791_P1
+08-Jun-18,Mt. Star Ridge,SA_Mono Creek,20791,P2,2018_MC_20791_P2
+20-Jun-18,Steelhead Pass,SA_Mono Creek,21032,P1,2018_MC_21032_P1
+16-Jun-18,Crocker Col,SA_Mono Creek,21092,P1,2018_MC_21092_P1
+18-Jun-18,Shout of Relief Pass,SA_Mono Creek,21151,P1,2018_MC_21151_P1
+18-Jun-18,Pass NE of Izaak W. Peak,SA_Mono Creek,21151,P2,2018_MC_21151_P2
+18-Dec-18,Pass east of Duck Pass,SA_Mammoth Lakes Basin,21511,P1,2018_ML_21511_P1
+03-Dec-18,Sky Meadow Pass,SA_Mammoth Lakes Basin,21571,P1,2018_ML_21571_P1
+10-Dec-18,Blue Crag Plateau,SA_Mammoth Lakes Basin,21571,P2,2018_ML_21571_P2
+19-Oct-18,McCleod Lake,SA_Mammoth Lakes Basin,21750,P1,2018_ML_21750_P1
+19-Oct-18,Crystal Lake,SA_Mammoth Lakes Basin,21750,P2,2018_ML_21750_P2
+27-Nov-18,Swall Meadows,SA_Rock Creek,20914,P1,2018_RC_20914_P1
+11-Oct-18,Pt. 10279 pass,SA_Ritter Range,21989,1,2018_RR_21989_1
+11-Oct-18,Gertrude Lake,SA_Ritter Range,21989,2,2018_RR_21989_2
+27-Sep-18,Holcomb Lake Pass,SA_Ritter Range,22048,1,2018_RR_22048_1
+27-Sep-18,Iron Lake,SA_Ritter Range,22048,2,2018_RR_22048_2
+11-Oct-18,NE Ridge from Lost Dog Lake,SA_Ritter Range,22049,1,2018_RR_22049_1
+11-Oct-18,Pass N of Minaret Crk,SA_Ritter Range,22049,2,2018_RR_22049_2
+26-Sep-18,Beck Lake Pass,SA_Ritter Range,22108,1,2018_RR_22108_1
+17-Oct-18,Deadhorse Pass,SA_Ritter Range,22108,2,2018_RR_22108_2
+27-Sep-18,Dike Creek,SA_Ritter Range,22166,1,2018_RR_22166_1
+27-Sep-18,McDonald Pass,SA_Ritter Range,22166,2,2018_RR_22166_2
+05-Oct-18,Volcanic Pass,SA_Ritter Range,22167,1,2018_RR_22167_1
+05-Oct-18,Volcanic Ridge,SA_Ritter Range,22167,2,2018_RR_22167_2
+26-Sep-18,Ritter Pass,SA_Ritter Range,22225,1,2018_RR_22225_1
+25-Sep-18,Cecile Lake,SA_Ritter Range,22225,2,2018_RR_22225_2
+25-Sep-18,N. facing ridge W of Nettle Pass,SA_Ritter Range,22283,1,2018_RR_22283_1
+26-Sep-18,Nettle Pass,SA_Ritter Range,22283,2,2018_RR_22283_2
+25-Sep-18,North Glacier Pass,SA_Ritter Range,22342,1,2018_RR_22342_1
+25-Sep-18,Whitebark Pass,SA_Ritter Range,22342,2,2018_RR_22342_2
+26-Sep-18,Clinch Pass,SA_Ritter Range,22400,1,2018_RR_22400_1
+27-Sep-18,Saddle North of North Glacier Pass,SA_Ritter Range,22400,2,2018_RR_22400_2
+25-Sep-18,Ridge b/t thousand island lake and Davis Lakes,SA_Ritter Range,22459,1,2018_RR_22459_1
+25-Sep-18,Ridge B/T Davis and Rodgers Lakes,SA_Ritter Range,22459,2,2018_RR_22459_2
+26-Sep-18,Rodgers Pass,SA_Ritter Range,22516,1,2018_RR_22516_1
+26-Sep-18,Marie Pass,SA_Ritter Range,22516,2,2018_RR_22516_2
+09-Aug-18,Conness Lake,SA_Twenty Lakes Basin,23339,P1,2018_TL_23339_P1
+09-Aug-18,Conness Lake NW,SA_Twenty Lakes Basin,23339,P2,2018_TL_23339_P2
+02-May-19,South of Trail Pass,SA_Mono Creek,20791,P3,2019_MC_20791_P3
+02-May-19,Center of Trail Pass,SA_Mono Creek,20791,P4,2019_MC_20791_P4
+30-Jul-19,Beido Col,SA_Mono Creek,21031,P1,2019_MC_21031_P1
+03-Dec-19,Sky Meadow Ridge,SA_Mammoth Lakes Basin,21571,P3,2019_ML_21571_P3
+04-Jan-19,Boot Pack Pass,SA_Mammoth Lakes Basin,21750,P3,2019_ML_21750_P3
+16-Mar-19,Red Top East,SA_Ritter Range,21989,3,2019_RR_21989_3
+18-Apr-19,Iron Lake,SA_Ritter Range,22048,2.1,2019_RR_22048_2.1
+18-Apr-19,Holcomb Lake Pass,SA_Ritter Range,22048,3,2019_RR_22048_3
+17-Mar-19,Volcanic Ridge E,SA_Ritter Range,22049,2.1,2019_RR_22049_2.1
+19-Apr-19,McDonald Pass,SA_Ritter Range,22166,2.1,2019_RR_22166_2.1
+17-Mar-19,Volcanic Ridge mid pass,SA_Ritter Range,22167,2.1,2019_RR_22167_2.1
+02-May-19,Cecile Lake,SA_Ritter Range,22225,2.1,2019_RR_22225_2.1
+19-Apr-19,Nettle Pass,SA_Ritter Range,22283,2.1,2019_RR_22283_2.1
+07-Aug-19,ridge b/t Davis and Rodgers,SA_Ritter Range,22459,P1,2019_RR_22459_P1
+07-Aug-19,Marie Pass,SA_Ritter Range,22516,P1,2019_RR_22516_P1
+04-Oct-19,beido col,SA_Silver Divide,21031,1,2019_SD_21031_1
+03-Oct-19,otto scat pass,SA_Silver Divide,21031,2,2019_SD_21031_2
+03-Oct-19,Evon Col,SA_Silver Divide,21091,1,2019_SD_21091_1
+09-Oct-19,silver pass ridge,SA_Silver Divide,21091,2,2019_SD_21091_2
+09-Oct-19,wilber may pass,SA_Silver Divide,21150,1,2019_SD_21150_1
+09-Oct-19,chief lake pass,SA_Silver Divide,21150,2,2019_SD_21150_2
+03-Oct-19,IW pass,SA_Silver Divide,21151,1,2019_SD_21151_1
+02-Oct-19,Lee Lake Pass,SA_Silver Divide,21151,2,2019_SD_21151_2
+11-Oct-19,Peter Pande Knoll,SA_Silver Divide,21210,1,2019_SD_21210_1
+11-Oct-19,Graveyard Pass,SA_Silver Divide,21210,2,2019_SD_21210_2
+02-Oct-19,hortense lake,SA_Silver Divide,21211,1,2019_SD_21211_1
+02-Oct-19,mace/warrior pass,SA_Silver Divide,21211,2,2019_SD_21211_2
+01-Oct-19,McGee Pass,SA_Silver Divide,21212,1,2019_SD_21212_1
+02-Oct-19,Red Slate Pass,SA_Silver Divide,21212,2,2019_SD_21212_2
+09-Oct-19,Olive Pass,SA_Silver Divide,21269,1,2019_SD_21269_1
+11-Oct-19,beetle bug pass,SA_Silver Divide,21269,2,2019_SD_21269_2
+03-Oct-19,pass NW of Red Slate Pass,SA_Silver Divide,21271,1,2019_SD_21271_1
+24-Oct-19,Pretty Pass,SA_Silver Divide,21271,2,2019_SD_21271_2
+10-Oct-19,5pm Pass,SA_Silver Divide,21329,1,2019_SD_21329_1
+10-Oct-19,midge pass,SA_Silver Divide,21329,2,2019_SD_21329_2
+02-Oct-19,tully plateau,SA_Silver Divide,21330,1,2019_SD_21330_1
+02-Oct-19,purple/virginia bench,SA_Silver Divide,21330,2,2019_SD_21330_2
+11-Oct-19,reef lk pass,SA_Silver Divide,21389,1,2019_SD_21389_1
+12-Oct-19,Shark Tooth Pass,SA_Silver Divide,21389,2,2019_SD_21389_2
+02-Oct-19,virginia pass,SA_Silver Divide,21391,1,2019_SD_21391_1
+03-Oct-19,bloody col,SA_Silver Divide,21391,2,2019_SD_21391_2
+29-Nov-20,Coyote Ridge,SA_Bishop Creek,19635,P1,2020_BC_19635_P1
+12-Oct-20,Bishop Pass,SA_Goddard Divide,19325,1,2020_GD_19325_1
+30-Sep-20,Ragged Spur # 1,SA_Goddard Divide,19384,1,2020_GD_19384_1
+30-Sep-20,Ragged Spur # 2,SA_Goddard Divide,19384,2,2020_GD_19384_2
+14-Sep-20,Battalian Lake,SA_Goddard Divide,19446,1,2020_GD_19446_1
+14-Sep-20,11493 Saddle,SA_Goddard Divide,19446,2,2020_GD_19446_2
+30-Sep-20,Black Giant Pass 1,SA_Goddard Divide,19447,1,2020_GD_19447_1
+01-Oct-20,Scylla Lakes Pass,SA_Goddard Divide,19447,2,2020_GD_19447_2
+30-Sep-20,Ragged Spur Gateway,SA_Goddard Divide,19508,1,2020_GD_19508_1
+01-Oct-20,Ionian Outlet,SA_Goddard Divide,19508,2,2020_GD_19508_2
+30-Sep-20,Ithaca Peak,SA_Goddard Divide,19509,1,2020_GD_19509_1
+02-Oct-20,Black Giant Pass 2,SA_Goddard Divide,19509,2,2020_GD_19509_2
+13-Sep-20,Rainbow Lk Pass,SA_Goddard Divide,19570,1,2020_GD_19570_1
+14-Sep-20,Valor Pass,SA_Goddard Divide,19570,2,2020_GD_19570_2
+29-Sep-20,Wanda Pass,SA_Goddard Divide,19571,1,2020_GD_19571_1
+01-Oct-20,Nietzsche Col,SA_Goddard Divide,19571,2,2020_GD_19571_2
+03-Oct-20,Shelf Camera,SA_Goddard Divide,19572,1,2020_GD_19572_1
+03-Oct-20,Echo West,SA_Goddard Divide,19572,2,2020_GD_19572_2
+11-Sep-20,Lk 11195 Pass,SA_Goddard Divide,19632,1,2020_GD_19632_1
+12-Sep-20,Martha Bench,SA_Goddard Divide,19632,2,2020_GD_19632_2
+01-Oct-20,Warlow Ridge,SA_Goddard Divide,19633,1,2020_GD_19633_1
+02-Oct-20,Huxley Shoulder,SA_Goddard Divide,19633,2,2020_GD_19633_2
+12-Sep-20,Holster Pass,SA_Goddard Divide,19693,1,2020_GD_19693_1
+12-Sep-20,Gunsight Pass,SA_Goddard Divide,19693,2,2020_GD_19693_2
+29-Sep-20,Davis Pass,SA_Goddard Divide,19694,1,2020_GD_19694_1
+29-Sep-20,"Pass 11,720",SA_Goddard Divide,19694,2,2020_GD_19694_2
+30-Sep-20,Peter Pass,SA_Goddard Divide,19755,1,2020_GD_19755_1
+30-Sep-20,Comma Lake Pass,SA_Goddard Divide,19755,2,2020_GD_19755_2
+07-Oct-20,Lamarck Col,SA_Goddard Divide,19818,1,2020_GD_19818_1
+08-Dec-20,Lamarck Drainage,SA_Goddard Divide,19819,1,2020_GD_19819_1
+05-Oct-20,Below Lamarck Col,SA_Goddard Divide,19880,1,2020_GD_19880_1
+08-Oct-20,Alpine Col,SA_Goddard Divide,19941,1,2020_GD_19941_1
+13-Oct-20,Paiute Pass,SA_Goddard Divide,20002,1,2020_GD_20002_1
+27-Oct-20,Mono Pass,SA_Mono Creek,20791,P1,2020_MC_20791_P1
+09-Jul-20,Golden Lake,SA_Mono Creek,20912,P1,2020_MC_20912_P1
+19-Mar-20,Boot Pack Pass,SA_Mammoth Lakes Basin,21750,P3.1,2020_ML_21750_P3.1
+15-Jul-20,Boot Pack Pass,SA_Mammoth Lakes Basin,21750,P3.2,2020_ML_21750_P3.2
+14-Feb-20,Deadman Pass,SA_Ritter Range,22168,P1,2020_RR_22168_P1
+21-Feb-20,San Joaquin Ridge,SA_Ritter Range,22168,P2,2020_RR_22168_P2
+17-Jul-20,Otto Scat Pass,SA_Silver Divide,21031,P2,2020_SD_21031_P2
+03-Oct-21,Italy Pass,SA_Bear Lakes Basin,20548,P1,2021_BL_20548_P1
+03-Oct-21,White Bear Pass,SA_Bear Lakes Basin,20548,P2,2021_BL_20548_P2
+04-Oct-21,Black Bear Pass,SA_Bear Lakes Basin,20548,P3,2021_BL_20548_P3
+12-Sep-21,Taboose Lake,SA_Cirque Crest,18637,1,2021_CC_18637_1
+12-Sep-21,Upper Goodale Pass,SA_Cirque Crest,18637,2,2021_CC_18637_2
+11-Sep-21,Cartridge Pass,SA_Cirque Crest,18762,1,2021_CC_18762_1
+11-Sep-21,Ruskin East Ridge,SA_Cirque Crest,18762,2,2021_CC_18762_2
+22-Sep-21,Cardinal Lake,SA_Cirque Crest,18763,1,2021_CC_18763_1
+22-Sep-21,Taboose Pass,SA_Cirque Crest,18763,2,2021_CC_18763_2
+10-Sep-21,Red Pass,SA_Cirque Crest,18825,1,2021_CC_18825_1
+10-Sep-21,White Pass,SA_Cirque Crest,18825,2,2021_CC_18825_2
+10-Sep-21,Vennacher Col,SA_Cirque Crest,18826,1,2021_CC_18826_1
+10-Sep-21,Vennacher Needle,SA_Cirque Crest,18826,2,2021_CC_18826_2
+09-Sep-21,Dumbbell Pass,SA_Cirque Crest,18888,1,2021_CC_18888_1
+11-Sep-21,Frozen Lake Pass,SA_Cirque Crest,18888,2,2021_CC_18888_2
+21-Sep-21,East Upper Basin,SA_Cirque Crest,18889,1,2021_CC_18889_1
+22-Sep-21,Split Mtn Saddle,SA_Cirque Crest,18889,2,2021_CC_18889_2
+10-Sep-21,Lower Dumbbell,SA_Cirque Crest,18951,1,2021_CC_18951_1
+10-Sep-21,Cartridge/Dumbbell Col,SA_Cirque Crest,18951,2,2021_CC_18951_2
+21-Sep-21,Upper Basin 1,SA_Cirque Crest,18952,1,2021_CC_18952_1
+21-Sep-21,Slab Pass,SA_Cirque Crest,18952,2,2021_CC_18952_2
+09-Sep-21,Observation Pass,SA_Cirque Crest,19014,1,2021_CC_19014_1
+09-Sep-21,Observation NW,SA_Cirque Crest,19014,2,2021_CC_19014_2
+19-Sep-21,South Knoll,SA_Cirque Crest,19015,1,2021_CC_19015_1
+19-Sep-21,North Knoll,SA_Cirque Crest,19015,2,2021_CC_19015_2
+18-Sep-21,Palisade Lakes 1,SA_Cirque Crest,19077,1,2021_CC_19077_1
+18-Sep-21,Palisade Lakes 2,SA_Cirque Crest,19077,2,2021_CC_19077_2
+19-Sep-21,The Traverse Camera,SA_Cirque Crest,19140,1,2021_CC_19140_1
+20-Sep-21,Chimney Pass,SA_Cirque Crest,19140,2,2021_CC_19140_2
+17-Oct-21,Dusy Basin,SA_Cirque Crest,19263,2,2021_CC_19263_2
+17-Oct-21,Bishop Pass,SA_Cirque Crest,19325,1,2021_CC_19325_1
+07-Sep-21,Thunderbolt Col,SA_Cirque Crest,19325,2,2021_CC_19325_2
+01-Apr-21,Knapsack Pass,SA_Goddard Divide,19263,1,2021_GD_19263_1
+04-Apr-21,Thunderbolt Col,SA_Goddard Divide,19325,2,2021_GD_19325_2
+20-Mar-21,Bishop Lake Cabin,SA_Goddard Divide,19449,1,2021_GD_19449_1
+18-Apr-21,Nietzsche Col 2,SA_Goddard Divide,19571,3,2021_GD_19571_3
+15-Apr-21,Gunsight Pass 2,SA_Goddard Divide,19693,3,2021_GD_19693_3
+13-Apr-21,Lower Huxley Shoulder 2,SA_Goddard Divide,19694,3,2021_GD_19694_3
+13-Apr-21,Davis Pass 2,SA_Goddard Divide,19694,4,2021_GD_19694_4
+28-Jul-21,Lamarck Col,SA_Goddard Divide,19818,P1,2021_GD_19818_P1
+09-Jun-21,Below Lamarck Col,SA_Goddard Divide,19880,P1,2021_GD_19880_P1
+01-Jan-21,Blue Craig Flat,SA_Mammoth Lakes Basin,21571,P4,2021_ML_21571_P4
+01-Jan-21,Barney Ridge,SA_Mammoth Lakes Basin,21571,P5,2021_ML_21571_P5
+04-Feb-21,Mammoth Crest 1,SA_Mammoth Lakes Basin,21630,P1,2021_ML_21630_P1
+04-Feb-21,Mammoth Crest 2,SA_Mammoth Lakes Basin,21630,P2,2021_ML_21630_P2
+30-Sep-21,Mammoth Crest 3,SA_Mammoth Lakes Basin,21630,P3,2021_ML_21630_P3
+06-Feb-21,Sherwin Ridge,SA_Mammoth Lakes Basin,21631,P1,2021_ML_21631_P1
+02-Jan-21,Red Cone,SA_Mammoth Lakes Basin,21750,P4,2021_ML_21750_P4
+25-Aug-21,Scheelite Spring,SA_Pine Creek,20550,P1,2021_PC_20550_P1
+04-Dec-21,Morgan Pass,SA_Rock Creek,20670,P1,2021_RC_20670_P1
+04-Dec-21,Rock Creek Meadow,SA_Rock Creek,20792,P1,2021_RC_20792_P1

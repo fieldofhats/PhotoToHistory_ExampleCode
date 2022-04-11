@@ -19,8 +19,8 @@ if (!require(lubridate)){
 source("./scripts/histories/meso_occupancy_functions_plusExamples.r")
 
 # Blank Detection history using dailyDetection0
-st.inpath<-"./data/input"
- st.infile<-"2020OperationalDates.csv"
+st.inpath<-"./data/in"
+ st.infile<-"op_dates_example.csv"
  st.dat<-read.csv(file.path(st.inpath, st.infile),header=T, stringsAsFactors = F)
  # st.dat<-st.dat[-which(st.dat$cell_site=='20851_1'),]
  # View(st.dat)
@@ -52,8 +52,8 @@ blank.detection <- dailyDetection0(	stData=st.dat,
 ### function to add non operational Dates:
 
 
-st.inpath<-"./data/input"
- st.infile<-"2020StationOffDates.csv"
+st.inpath<-"./data/in"
+ st.infile<-"off_dts_example.csv"
  st.off.dat<-read.csv(file.path(st.inpath, st.infile),header=T, stringsAsFactors = F)
 #  View(st.off.dat)
 #  str(st.off.dat)
@@ -92,8 +92,8 @@ blank.detection<-detectionOffDts( blankDetectionHist = blank.detection,
 ###################################add Lure
 # View(lure.days)
 ## example:
-lure.path<-"./data/input"
-lure.file<-"2020_lure_dts.csv"
+lure.path<-"./data/in"
+lure.file<-"lure_example.csv"
 lure.date<-read.csv(file.path(lure.path,lure.file),header=T, stringsAsFactors=F)
 # View(lure.date)
 
@@ -221,14 +221,14 @@ nrow(blank2018.pass[which(blank2018.pass$installed == 1),])
 
 
 
-##get photo data
-in.path<-"M:/AlpineMesocarnivore/Data/PhotoData/PhotoDataTables/2018"
-#out.path<-"C:/Users/bhatfield/Desktop"
-in.file<-"2018_photodata_meta_30MinDetections.txt"
-
-#write.table(count.dat,file.path(out.path,out.file))
-count.dat<-read.table(file.path(in.path,in.file), stringsAsFactors = F)
-# View(count.dat)
+# ##get photo data
+# in.path<-"M:/AlpineMesocarnivore/Data/PhotoData/PhotoDataTables/2018"
+# #out.path<-"C:/Users/bhatfield/Desktop"
+# in.file<-"2018_photodata_meta_30MinDetections.txt"
+# 
+# #write.table(count.dat,file.path(out.path,out.file))
+# count.dat<-read.table(file.path(in.path,in.file), stringsAsFactors = F)
+# # View(count.dat)
 
 
 ### 30 min detections:
@@ -245,10 +245,11 @@ count.dat$cell_site_sub<-count.dat$cell_site
 
 
 #### add coyote
-coyote.2018<-dailyDetectionOut(	count.dat, 
-									blank.detection,
-									'Coyote',
-									2018 ,
+coyote.2018<-dailyDetectionOut(	
+                  camData = as.data.frame(count.dat), 
+                  detection0 = blank.detection,
+									species = 'Coyote',
+									detectionYear = 2020 ,
 									spField='species', 
 									csField = 'cell_site', 
 									dtField='photo_date', 
@@ -258,6 +259,11 @@ coyote.2018<-dailyDetectionOut(	count.dat,
 								
 # View(coyote.2018)
 
+coyote.2018 %>% 
+  as_tibble %>% 
+  sum(as.numeric(count), na.rm=T)
+
+sum(coyote.2018$count, na.rm = T)
 
 
 # checks:
